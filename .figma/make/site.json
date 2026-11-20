@@ -1,0 +1,10 @@
+{
+  "description": "An intimate anniversary experience for two, featuring an interactive candlelit cake, romantic music, and a cinematic celebration of shared memories and forever.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
