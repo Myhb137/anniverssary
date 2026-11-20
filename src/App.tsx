@@ -151,7 +151,7 @@ export default function App() {
             <i /><i /><i />
           </div>
           <div className="cake-halo" />
-          <img src="/assets/anniversary-cake.png" alt="An elegant ivory anniversary cake with two candles" />
+          <img src="public/assets/anniversary-cake.png" alt="An elegant ivory anniversary cake with two candles" />
           <div className="flame-position flame-left"><Flame lit={candlesLit} smoke={wished} /></div>
           <div className="flame-position flame-right"><Flame lit={candlesLit} smoke={wished} delay={0.3} /></div>
           <MagicParticles active={wished && !messageVisible} />
